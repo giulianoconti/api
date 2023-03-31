@@ -1,0 +1,190 @@
+[
+  {
+    "id": 1,
+    "img": "https://raw.githubusercontent.com/giulianoconti/api/main/imagesProjects/images_956x538/copicti_956x538.webp",
+    "hrefGithub": "https://github.com/giulianoconti/copicti",
+    "hrefWeb": "https://copicti-giulianoconti.vercel.app/",
+    "title": "Copicti",
+    "description": "Page where you can add to the cart prefabricated paintings or designed by your own account.",
+    "technologies": [
+      {
+        "title": "React",
+        "img": "https://raw.githubusercontent.com/giulianoconti/api/main/Icons/react.svg"
+      },
+      {
+        "title": "Firebase",
+        "img": "https://raw.githubusercontent.com/giulianoconti/api/main/Icons/firebase.svg"
+      },
+      {
+        "title": "Css3",
+        "img": "https://raw.githubusercontent.com/giulianoconti/api/main/Icons/css3.svg"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "img": "https://raw.githubusercontent.com/giulianoconti/api/main/imagesProjects/images_956x538/blackjack_956x538.webp",
+    "hrefGithub": "https://github.com/giulianoconti/tp-final-devlights",
+    "hrefWeb": "https://g2-devlights-bootcamp.vercel.app/",
+    "title": "Blackjack",
+    "description": "Card game where the objective is to defeat the bank. You must have a hand that scores higher than the banker's hand, without going over 21.",
+    "technologies": [
+      {
+        "title": "React",
+        "img": "https://raw.githubusercontent.com/giulianoconti/api/main/Icons/react.svg"
+      },
+      {
+        "title": "Firebase",
+        "img": "https://raw.githubusercontent.com/giulianoconti/api/main/Icons/firebase.svg"
+      },
+      {
+        "title": "Tailwind",
+        "img": "https://raw.githubusercontent.com/giulianoconti/api/main/Icons/tailwind.svg"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "img": "https://raw.githubusercontent.com/giulianoconti/api/main/imagesProjects/images_956x538/portfolio3d_956x538.webp",
+    "hrefGithub": "https://github.com/giulianoconti/portfolio-3d",
+    "hrefWeb": "https://portfolio-3d-giulianoconti.vercel.app/",
+    "title": "Portfolio 3D",
+    "description": "Learning and creating a 3D portfolio with threejs.",
+    "technologies": [
+      {
+        "title": "React",
+        "img": "https://raw.githubusercontent.com/giulianoconti/api/main/Icons/react.svg"
+      },
+      {
+        "title": "Css3",
+        "img": "https://raw.githubusercontent.com/giulianoconti/api/main/Icons/css3.svg"
+      },
+      {
+        "title": "Blender",
+        "img": "https://raw.githubusercontent.com/giulianoconti/api/main/Icons/blender.svg"
+      },
+      {
+        "title": "Threejs",
+        "img": "https://raw.githubusercontent.com/giulianoconti/api/main/Icons/threejs.svg"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "img": "https://raw.githubusercontent.com/giulianoconti/api/main/imagesProjects/images_956x538/createResume_956x538.webp",
+    "hrefGithub": "https://github.com/JoaGal/Create-CV",
+    "hrefWeb": "https://create-your-resume.vercel.app/",
+    "title": "Create Resume",
+    "description": "Create your Resume simply by completing a form with this application.",
+    "technologies": [
+      {
+        "title": "React",
+        "img": "https://raw.githubusercontent.com/giulianoconti/api/main/Icons/react.svg"
+      },
+      {
+        "title": "Css3",
+        "img": "https://raw.githubusercontent.com/giulianoconti/api/main/Icons/css3.svg"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "img": "https://raw.githubusercontent.com/giulianoconti/api/main/imagesProjects/images_956x538/sokoban_956x538.webp",
+    "hrefGithub": "https://github.com/giulianoconti/sokoban-reactjs",
+    "hrefWeb": "https://sokoban-giulianoconti.vercel.app/",
+    "title": "Sokoban Game",
+    "description": "It is a puzzle video game where the player pushes boxes in a warehouse, trying to get them to the storage locations.",
+    "technologies": [
+      {
+        "title": "React",
+        "img": "https://raw.githubusercontent.com/giulianoconti/api/main/Icons/react.svg"
+      },
+      {
+        "title": "Css3",
+        "img": "https://raw.githubusercontent.com/giulianoconti/api/main/Icons/css3.svg"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "img": "https://raw.githubusercontent.com/giulianoconti/api/main/imagesProjects/images_956x538/removeBg_956x538.webp",
+    "hrefGithub": "https://github.com/giulianoconti/remoback",
+    "hrefWeb": "https://remoback.vercel.app/",
+    "title": "Remove Background",
+    "description": "App where you can remove one or more colors from an image.",
+    "technologies": [
+      {
+        "title": "React",
+        "img": "https://raw.githubusercontent.com/giulianoconti/api/main/Icons/react.svg"
+      },
+      {
+        "title": "Css3",
+        "img": "https://raw.githubusercontent.com/giulianoconti/api/main/Icons/css3.svg"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "img": "https://raw.githubusercontent.com/giulianoconti/api/main/imagesProjects/images_956x538/pokemon_956x538.webp",
+    "hrefGithub": "https://github.com/giulianoconti/devlights-homework-2",
+    "hrefWeb": "https://giulianoconti.github.io/devlights-homework-2/",
+    "title": "Pokemon Finder",
+    "description": "Website where you have to register to be able to search for pokemons.",
+    "technologies": [
+      {
+        "title": "React",
+        "img": "https://raw.githubusercontent.com/giulianoconti/api/main/Icons/react.svg"
+      },
+      {
+        "title": "Firebase",
+        "img": "https://raw.githubusercontent.com/giulianoconti/api/main/Icons/firebase.svg"
+      },
+      {
+        "title": "Tailwind",
+        "img": "https://raw.githubusercontent.com/giulianoconti/api/main/Icons/tailwind.svg"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "img": "https://raw.githubusercontent.com/giulianoconti/api/main/imagesProjects/images_956x538/informatorio_956x538.webp",
+    "hrefGithub": "https://github.com/giulianoconti/tp-info-react-2022",
+    "title": "News",
+    "description": "Website to keep you informed.",
+    "technologies": [
+      {
+        "title": "React",
+        "img": "https://raw.githubusercontent.com/giulianoconti/api/main/Icons/react.svg"
+      },
+      {
+        "title": "Css3",
+        "img": "https://raw.githubusercontent.com/giulianoconti/api/main/Icons/css3.svg"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "img": "https://raw.githubusercontent.com/giulianoconti/api/main/imagesProjects/images_956x538/weather_956x538.webp",
+    "hrefGithub": "https://github.com/giulianoconti/WeatherTI",
+    "hrefWeb": "https://weather-ti.vercel.app/",
+    "title": "WeatherTI",
+    "description": "Page to keep you informed about current and future weather.",
+    "technologies": [
+      {
+        "title": "React",
+        "img": "https://raw.githubusercontent.com/giulianoconti/api/main/Icons/react.svg"
+      },
+      {
+        "title": "Css3",
+        "img": "https://raw.githubusercontent.com/giulianoconti/api/main/Icons/css3.svg"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "img": "https://raw.githubusercontent.com/giulianoconti/api/main/imagesProjects/images_956x538/otherProjects_956x538.webp",
+    "hrefGithub": "https://github.com/giulianoconti?tab=repositories",
+    "title": "Other Projects",
+    "description": "In my github repositories you will find my public projects."
+  }
+]

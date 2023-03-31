@@ -1,0 +1,46 @@
+
+
+[
+    { 
+        "id": "keyboard-1",
+        "name": "HyperX Alloy FPS",
+        "description": "Keyboard",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_934535-MLA32722027938_102019-O.webp",
+        "price": "60",
+        "stock": "10"},
+    {  
+        "id": "keyboard-2",
+        "name": "Logitech K380",
+        "description": "Keyboard",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_758918-MLA46869090083_072021-O.webp",
+        "price": "25",
+        "stock": "999"},
+    { 
+        "id": "keyboard-3",
+        "name": "Redragon K522",
+        "description": "Keyboard",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_829098-MLA46869090083_072021-O.webp",
+        "price": "40",
+        "stock": "37"},
+    { 
+        "id": "mouse-1",
+        "name": "Logitech G305",
+        "description": "Mouse",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_697642-MLA32148169261_092019-O.webp",
+        "price": "32",
+        "stock": "61"},
+    { 
+        "id": "mouse-2",
+        "name": "Razer DeathAdder V2 Mini",
+        "description": "Mouse",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_867932-MLA44283118630_122020-O.webp",
+        "price": "38",
+        "stock": "23"},
+    {
+        "id": "mouse-3",
+        "name": "Logitech G502",
+        "description": "Mouse",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_966913-MLA32149634914_092019-O.webp",
+        "price": "45",
+        "stock": "3"}
+]
