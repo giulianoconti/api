@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "img": "https://raw.githubusercontent.com/giulianoconti/api/main/imagesProjects/images_956x538/copicti_956x538.webp",
+    "img": "https://raw.githubusercontent.com/giulianoconti/api/main/imagesProjects/images_956x538/copicti.webp",
     "hrefGithub": "https://github.com/giulianoconti/copicti",
     "hrefWeb": "https://copicti-giulianoconti.vercel.app/",
     "title": "Copicti",
@@ -23,7 +23,7 @@
   },
   {
     "id": 2,
-    "img": "https://raw.githubusercontent.com/giulianoconti/api/main/imagesProjects/images_956x538/blackjack_956x538.webp",
+    "img": "https://raw.githubusercontent.com/giulianoconti/api/main/imagesProjects/images_956x538/blackjack.webp",
     "hrefGithub": "https://github.com/giulianoconti/tp-final-devlights",
     "hrefWeb": "https://g2-devlights-bootcamp.vercel.app/",
     "title": "Blackjack",
@@ -45,7 +45,7 @@
   },
   {
     "id": 3,
-    "img": "https://raw.githubusercontent.com/giulianoconti/api/main/imagesProjects/images_956x538/portfolio3d_956x538.webp",
+    "img": "https://raw.githubusercontent.com/giulianoconti/api/main/imagesProjects/images_956x538/portfolio3d.webp",
     "hrefGithub": "https://github.com/giulianoconti/portfolio-3d",
     "hrefWeb": "https://portfolio-3d-giulianoconti.vercel.app/",
     "title": "Portfolio 3D",
@@ -71,7 +71,7 @@
   },
   {
     "id": 4,
-    "img": "https://raw.githubusercontent.com/giulianoconti/api/main/imagesProjects/images_956x538/createResume_956x538.webp",
+    "img": "https://raw.githubusercontent.com/giulianoconti/api/main/imagesProjects/images_956x538/createResume.webp",
     "hrefGithub": "https://github.com/JoaGal/Create-CV",
     "hrefWeb": "https://create-your-resume.vercel.app/",
     "title": "Crear CV",
@@ -89,7 +89,7 @@
   },
   {
     "id": 5,
-    "img": "https://raw.githubusercontent.com/giulianoconti/api/main/imagesProjects/images_956x538/sokoban_956x538.webp",
+    "img": "https://raw.githubusercontent.com/giulianoconti/api/main/imagesProjects/images_956x538/sokoban.webp",
     "hrefGithub": "https://github.com/giulianoconti/sokoban-reactjs",
     "hrefWeb": "https://sokoban-giulianoconti.vercel.app/",
     "title": "Sokoban Juego",
@@ -107,7 +107,7 @@
   },
   {
     "id": 6,
-    "img": "https://raw.githubusercontent.com/giulianoconti/api/main/imagesProjects/images_956x538/removeBg_956x538.webp",
+    "img": "https://raw.githubusercontent.com/giulianoconti/api/main/imagesProjects/images_956x538/removeBg.webp",
     "hrefGithub": "https://github.com/giulianoconti/remoback",
     "hrefWeb": "https://remoback.vercel.app/",
     "title": "Eliminar Fondo",
@@ -126,7 +126,7 @@
 
   {
     "id": 7,
-    "img": "https://raw.githubusercontent.com/giulianoconti/api/main/imagesProjects/images_956x538/pokemon_956x538.webp",
+    "img": "https://raw.githubusercontent.com/giulianoconti/api/main/imagesProjects/images_956x538/pokemon.webp",
     "hrefGithub": "https://github.com/giulianoconti/devlights-homework-2",
     "hrefWeb": "https://giulianoconti.github.io/devlights-homework-2/",
     "title": "Pokemon Buscador",
@@ -148,7 +148,7 @@
   },
   {
     "id": 8,
-    "img": "https://raw.githubusercontent.com/giulianoconti/api/main/imagesProjects/images_956x538/informatorio_956x538.webp",
+    "img": "https://raw.githubusercontent.com/giulianoconti/api/main/imagesProjects/images_956x538/informatorio.webp",
     "hrefGithub": "https://github.com/giulianoconti/tp-info-react-2022",
     "title": "Noticias",
     "description": "Web para mantenerte informado.",
@@ -165,7 +165,7 @@
   },
  {
     "id": 9,
-    "img": "https://raw.githubusercontent.com/giulianoconti/api/main/imagesProjects/images_956x538/weather_956x538.webp",
+    "img": "https://raw.githubusercontent.com/giulianoconti/api/main/imagesProjects/images_956x538/weather.webp",
     "hrefGithub": "https://github.com/giulianoconti/WeatherTI",
     "hrefWeb": "https://weather-ti.vercel.app/",
     "title": "WeatherTI",
@@ -183,7 +183,7 @@
   },
   {
     "id": 10,
-    "img": "https://raw.githubusercontent.com/giulianoconti/api/main/imagesProjects/images_956x538/otherProjects_956x538.webp",
+    "img": "https://raw.githubusercontent.com/giulianoconti/api/main/imagesProjects/images_956x538/otherProjects.webp",
     "hrefGithub": "https://github.com/giulianoconti?tab=repositories",
     "title": "Otros Proyectos",
     "description": "En mis repositorios de github encontrarás mis proyectos públicos."
