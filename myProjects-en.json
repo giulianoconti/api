@@ -73,7 +73,7 @@
     "id": 4,
     "img": "https://raw.githubusercontent.com/giulianoconti/api/main/imagesProjects/images_1920x1080/createResume.webp",
     "hrefGithub": "https://github.com/JoaGal/Create-CV",
-    "hrefWeb": "https://create-your-resume.vercel.app/",
+    "hrefWeb": "https://create-cv-s.vercel.app/",
     "title": "Create Resume",
     "description": "Create your Resume simply by completing a form with this application.",
     "technologies": [
