@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "img": "https://api-imgs.vercel.app/copicti.webp",
+    "img": "https://raw.githubusercontent.com/giulianoconti/api/main/imagesProjects/images_1920x1080/copicti.webp",
     "hrefGithub": "https://github.com/giulianoconti/copicti",
     "hrefWeb": "https://copicti-giulianoconti.vercel.app/",
     "title": "Copicti",
