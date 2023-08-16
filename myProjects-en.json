@@ -3,7 +3,7 @@
     "id": 1,
     "img": "https://raw.githubusercontent.com/giulianoconti/api/main/imagesProjects/images_1920x1080/copicti.webp",
     "hrefGithub": "https://github.com/giulianoconti/copicti",
-    "hrefWeb": "https://copicti-giulianoconti.vercel.app/",
+    "hrefWeb": "https://copicti.vercel.app/",
     "title": "Copicti",
     "description": "Page where you can add to the cart prefabricated paintings or designed by your own account.",
     "technologies": [
