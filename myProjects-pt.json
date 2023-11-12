@@ -1,28 +1,6 @@
 [
   {
     "id": 1,
-    "img": "https://raw.githubusercontent.com/giulianoconti/api/main/imagesProjects/images_1920x1080/copicti.webp",
-    "hrefGithub": "https://github.com/giulianoconti/copicti",
-    "hrefWeb": "https://copicti.vercel.app/",
-    "title": "Copicti",
-    "description": "Página onde pode adicionar ao carrinho pinturas pré-fabricadas ou desenhadas por sua conta.",
-    "technologies": [
-      {
-        "title": "React",
-        "img": "https://raw.githubusercontent.com/giulianoconti/api/main/Icons/react.svg"
-      },
-      {
-        "title": "Firebase",
-        "img": "https://raw.githubusercontent.com/giulianoconti/api/main/Icons/firebase.svg"
-      },
-      {
-        "title": "Css3",
-        "img": "https://raw.githubusercontent.com/giulianoconti/api/main/Icons/css3.svg"
-      }
-    ]
-  },
-  {
-    "id": 2,
     "img": "https://raw.githubusercontent.com/giulianoconti/api/main/imagesProjects/images_1920x1080/blackjack.webp",
     "hrefGithub": "https://github.com/giulianoconti/tp-final-devlights",
     "hrefWeb": "https://g2-devlights-bootcamp.vercel.app/",
@@ -40,6 +18,28 @@
       {
         "title": "Tailwind",
         "img": "https://raw.githubusercontent.com/giulianoconti/api/main/Icons/tailwind.svg"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "img": "https://raw.githubusercontent.com/giulianoconti/api/main/imagesProjects/images_1920x1080/copicti.webp",
+    "hrefGithub": "https://github.com/giulianoconti/copicti",
+    "hrefWeb": "https://copicti.vercel.app/",
+    "title": "Copicti",
+    "description": "Página onde pode adicionar ao carrinho pinturas pré-fabricadas ou desenhadas por sua conta.",
+    "technologies": [
+      {
+        "title": "React",
+        "img": "https://raw.githubusercontent.com/giulianoconti/api/main/Icons/react.svg"
+      },
+      {
+        "title": "Firebase",
+        "img": "https://raw.githubusercontent.com/giulianoconti/api/main/Icons/firebase.svg"
+      },
+      {
+        "title": "Css3",
+        "img": "https://raw.githubusercontent.com/giulianoconti/api/main/Icons/css3.svg"
       }
     ]
   },
